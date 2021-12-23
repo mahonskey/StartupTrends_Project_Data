@@ -1,14 +1,5 @@
 {
-"nodes": [{ "id": "hangover cure" },
-{ "id": "protein shake" },
-{ "id": "synthetic seafood" },
-{ "id": "plant-based meat substitute" },
-{ "id": "bagels" },
-{ "id": "seltzer water" },
-{ "id": "meal delivery" },
-{ "id": "synthetic seafood" },
-{ "id": "mac & cheese" },
-{ "id": "probiotic" },
+"nodes": [
 { "id": "hangover cure" },
 { "id": "protein shake" },
 { "id": "synthetic seafood" },
@@ -30,6 +21,16 @@
 { "id": "mac & cheese" },
 { "id": "probiotic" },
 { "id": "hangover cure" },
+{ "id": "protein shake" },
+{ "id": "synthetic seafood" },
+{ "id": "plant-based meat substitute" },
+{ "id": "bagels" },
+{ "id": "seltzer water" },
+{ "id": "meal delivery" },
+{ "id": "synthetic seafood" },
+{ "id": "mac & cheese" },
+{ "id": "probiotic" },
+{ "id": "hangover cure" },
 { "id": "hangover cure" },
 { "id": "hangover cure" },
 { "id": "hangover cure" },
@@ -201,8 +202,10 @@
 { "id": "meal delivery" },
 { "id": "hangover cure" },
 { "id": "hangover cure" },
-{ "id": "probiotic" }],
-"edges": [{ "from": "hangover cure", "to": "more labs" },
+{ "id": "probiotic" }
+],
+"edges": [
+{ "from": "hangover cure", "to": "more labs" },
 { "from": "protein shake", "to": "ample foods" },
 { "from": "synthetic seafood", "to": "aqua cultured foods" },
 { "from": "plant-based meat substitute", "to": "atlast food" },
@@ -404,4 +407,6 @@
 { "from": "meal delivery", "to": "vegetarians" },
 { "from": "hangover cure", "to": "convenience stores" },
 { "from": "hangover cure", "to": "grocery stores" },
-{ "from": "probiotic", "to": "convenience stores" }]}
+{ "from": "probiotic", "to": "convenience stores" }
+]
+}
